@@ -11,6 +11,9 @@
 		7BD6D2162BA78EAF000F1CCA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2152BA78EAF000F1CCA /* ContentView.swift */; };
 		7BD6D2182BA78EB1000F1CCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BD6D2172BA78EB1000F1CCA /* Assets.xcassets */; };
 		7BD6D21B2BA78EB1000F1CCA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BD6D21A2BA78EB1000F1CCA /* Preview Assets.xcassets */; };
+		7BD6D2222BA79041000F1CCA /* jpapexpredators.json in Resources */ = {isa = PBXBuildFile; fileRef = 7BD6D2212BA79041000F1CCA /* jpapexpredators.json */; };
+		7BD6D2242BA796B6000F1CCA /* ApexPredator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */; };
+		7BD6D2262BA7A193000F1CCA /* Predators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2252BA7A193000F1CCA /* Predators.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		7BD6D2152BA78EAF000F1CCA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7BD6D2172BA78EB1000F1CCA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7BD6D21A2BA78EB1000F1CCA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7BD6D2212BA79041000F1CCA /* jpapexpredators.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jpapexpredators.json; path = JP17Resources/jpapexpredators.json; sourceTree = SOURCE_ROOT; };
+		7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredator.swift; sourceTree = "<group>"; };
+		7BD6D2252BA7A193000F1CCA /* Predators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predators.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				7BD6D2132BA78EAF000F1CCA /* JPApexPredators17App.swift */,
 				7BD6D2152BA78EAF000F1CCA /* ContentView.swift */,
+				7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */,
+				7BD6D2252BA7A193000F1CCA /* Predators.swift */,
+				7BD6D2212BA79041000F1CCA /* jpapexpredators.json */,
 				7BD6D2172BA78EB1000F1CCA /* Assets.xcassets */,
 				7BD6D2192BA78EB1000F1CCA /* Preview Content */,
 			);
@@ -127,6 +136,7 @@
 			files = (
 				7BD6D21B2BA78EB1000F1CCA /* Preview Assets.xcassets in Resources */,
 				7BD6D2182BA78EB1000F1CCA /* Assets.xcassets in Resources */,
+				7BD6D2222BA79041000F1CCA /* jpapexpredators.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BD6D2242BA796B6000F1CCA /* ApexPredator.swift in Sources */,
 				7BD6D2162BA78EAF000F1CCA /* ContentView.swift in Sources */,
+				7BD6D2262BA7A193000F1CCA /* Predators.swift in Sources */,
 				7BD6D2142BA78EAF000F1CCA /* JPApexPredators17App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
