@@ -15,6 +15,7 @@
 		7BD6D2242BA796B6000F1CCA /* ApexPredator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */; };
 		7BD6D2262BA7A193000F1CCA /* Predators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2252BA7A193000F1CCA /* Predators.swift */; };
 		7BD6D2282BAA9D74000F1CCA /* PredatorDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2272BAA9D74000F1CCA /* PredatorDetail.swift */; };
+		7BD6D22A2BABDB35000F1CCA /* PredatorMap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BD6D2292BABDB35000F1CCA /* PredatorMap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApexPredator.swift; sourceTree = "<group>"; };
 		7BD6D2252BA7A193000F1CCA /* Predators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predators.swift; sourceTree = "<group>"; };
 		7BD6D2272BAA9D74000F1CCA /* PredatorDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorDetail.swift; sourceTree = "<group>"; };
+		7BD6D2292BABDB35000F1CCA /* PredatorMap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredatorMap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				7BD6D2132BA78EAF000F1CCA /* JPApexPredators17App.swift */,
 				7BD6D2152BA78EAF000F1CCA /* ContentView.swift */,
 				7BD6D2272BAA9D74000F1CCA /* PredatorDetail.swift */,
+				7BD6D2292BABDB35000F1CCA /* PredatorMap.swift */,
 				7BD6D2232BA796B6000F1CCA /* ApexPredator.swift */,
 				7BD6D2252BA7A193000F1CCA /* Predators.swift */,
 				7BD6D2212BA79041000F1CCA /* jpapexpredators.json */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BD6D2242BA796B6000F1CCA /* ApexPredator.swift in Sources */,
+				7BD6D22A2BABDB35000F1CCA /* PredatorMap.swift in Sources */,
 				7BD6D2162BA78EAF000F1CCA /* ContentView.swift in Sources */,
 				7BD6D2282BAA9D74000F1CCA /* PredatorDetail.swift in Sources */,
 				7BD6D2262BA7A193000F1CCA /* Predators.swift in Sources */,

@@ -72,7 +72,7 @@ struct PredatorDetail: View {
                                 .background(.black.opacity(0.33))
                                 .clipShape(.rect(bottomTrailingRadius: 15))
                         }
-                        .clipShape(.rect(cornerRadius: 15))
+                        
                     }
                     
                     // Appears In
